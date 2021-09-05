@@ -1,4 +1,4 @@
-Hi, I'm James 👋
+# Hi, I'm James 👋
 ---
 I'm a Software Engineer and currently based in Sydney, Australia 🇦🇺
 
