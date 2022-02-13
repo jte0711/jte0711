@@ -1,6 +1,6 @@
 # Hi, I'm James 👋
 ---
-I'm a Software Engineer and currently based in Sydney, Australia 🇦🇺
+I'm a Software Engineer and currently based in Sydney, Australia 🇦🇺 (UPDATE: in Jakarta, Indonesia 🇮🇩)
 
 ### Me:
  - 📝 Languages that I work with or know: `Python` `JavaScript` `TypeScript` `SQL`
