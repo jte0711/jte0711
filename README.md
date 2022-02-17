@@ -3,10 +3,10 @@
 I'm a Software Engineer and currently based in Sydney, Australia 🇦🇺 (UPDATE: in Jakarta, Indonesia 🇮🇩)
 
 ### Me:
- - 📝 Languages that I work with or know: `Python` `JavaScript` `TypeScript` `SQL`
+ - 📝 Languages that I work with or know: `Python` `JavaScript` `TypeScript` `SQL` `Solidity`
  <!-- - 🛠 Working on Crypto Portfolio App-->
- - 📕 I'm learning more about `TypeScript` and `React Native`
- - 🤝 I'm looking to collaborate on anything related to `React Native` and `TypeScript` especially if it's related to game or apps
+ - 📕 I'm learning more about `TypeScript`, `React Native`, and Smart Contract (`Solidity`)
+ - 🤝 I'm looking to collaborate on anything related to `React Native`, `TypeScript` and `Blockchain` or `NFT` especially if it's related to game or apps
 
 ### Get in touch:
  - 🐦 Twitter: https://twitter.com/jmstdy95
