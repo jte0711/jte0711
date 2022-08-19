@@ -12,6 +12,7 @@ I'm a Software Engineer and currently based in Sydney, Australia 🇦🇺 (UPDAT
  - 🐦 Twitter: https://twitter.com/jmstdy95
  - ✉️ Email: james.dev2195@gmail.com
  - StackOverflow: https://stackoverflow.com/users/7870211/jted95
+ - Dev.to : https://dev.to/jte0711
 <!--
 **jte0711/jte0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
